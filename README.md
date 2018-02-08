@@ -25,6 +25,7 @@ It is released under the MIT license for the use of the community, pull requests
 See also
 --------
 
+https://cymmetria.com/blog/honeypots-for-oracle-vulnerabilities/
 http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-10271
 
 Please consider trying out the MazeRunner Community Edition, the free version of our cyber deception platform.
