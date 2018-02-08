@@ -10,7 +10,7 @@ Contact: research@cymmetria.com
 
 WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability. The honeypots does a simple simulation of the WebLogic server and will allow attackers to use the vulnerability to attempt to execute code, and will report of such attempts.
 
-It is released under the MIT license for the use of the community.
+It is released under the MIT license for the use of the community, pull requests are welcome!
 
 
 # Usage
